@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/main_view_call_c_from_java_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Java调用C方法"/>
+
+    <Button
+        android:id="@+id/main_view_call_java_static_method_from_c_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C调用Java静态方法"/>
+
+    <Button
+        android:id="@+id/main_view_call_java_from_c_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C调用Java非静态方法"/>
+
+    <TextView
+        android:id="@+id/main_view_result_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="Result"
+        android:padding="10dp"
+        android:textColor="@android:color/black"/>
+</LinearLayout>
