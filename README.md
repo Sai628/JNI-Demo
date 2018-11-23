@@ -1,3 +1,3 @@
 # A Simple JNI Demo
 
-![](http://oo8lgm5bz.bkt.clouddn.com/2017-11-26-JNI-Demo-preview-00.png?imageView2/2/w/360)
+![](https://sai628-github-image.oss-cn-shenzhen.aliyuncs.com/2017-11-26-JNI-Demo-preview-00.png?x-oss-process=image/resize,w_360)
